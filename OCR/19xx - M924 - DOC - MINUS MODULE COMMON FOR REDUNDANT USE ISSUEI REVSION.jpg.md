@@ -1,5 +1,5 @@
 # 19xx - M924 - DOC - MINUS MODULE COMMON FOR REDUNDANT USE ISSUEI REVSION.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -252,7 +252,7 @@ WBZ NEWS AIR STUDIO RENAISSANCE Mk FUNCTIONAL SCALE DISC NO; 940444-01- SSUE COD
 
 ```json
 {
- "file": "Modules/UNSORTED/M924/19xx - M924 - DOC - MINUS MODULE COMMON FOR REDUNDANT USE ISSUEI REVSION.jpg",
+ "file": "Modules/UNSORTED/M924/MANUALS/19xx - M924 - DOC - MINUS MODULE COMMON FOR REDUNDANT USE ISSUEI REVSION.jpg",
  "sha256": "0d9bf8acf99c184557951a83feea785b3d5e62a67cd32db73e9c381e1454acc3",
  "kind": "doc",
  "models": [

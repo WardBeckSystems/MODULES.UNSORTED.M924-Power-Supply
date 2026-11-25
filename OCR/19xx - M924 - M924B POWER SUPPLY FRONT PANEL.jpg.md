@@ -1,5 +1,5 @@
 # 19xx - M924 - M924B POWER SUPPLY FRONT PANEL.jpg
-Wiki page: [M924](../../../PAGES/M924.md)
+Wiki page: [M924](../../../../PAGES/M924.md)
 
 
 - **Year:** unknown (title block (read by eye))
@@ -101,7 +101,7 @@ WARD-BECK SYSTEMS DRN: DRG M924B ENG. POWER SUPPLY CKD: APP FRONT PANEL SCALE DI
 
 ```json
 {
- "file": "Modules/UNSORTED/M924/19xx - M924 - M924B POWER SUPPLY FRONT PANEL.jpg",
+ "file": "Modules/UNSORTED/M924/MECHANICAL/19xx - M924 - M924B POWER SUPPLY FRONT PANEL.jpg",
  "sha256": "4d711f915078cc88d5cca2c92dc41feab866e092ab895f2e301844a82b22728c",
  "kind": "module",
  "models": [
