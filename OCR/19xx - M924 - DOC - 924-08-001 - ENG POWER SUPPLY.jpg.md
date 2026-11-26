@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 30 in 28 lines: 0250 Dla · FLACES · PITCHES · 0,2JC · 0,6 90 · Z9C0 · 7 0no · REC D · REC D · 10.033 · Dlod · HOES;
 - **Title block:** (367, 24)–(428, 40) mm: WARD · BECK  SYSTEMS · M924/m9244/m9240
 
-Every curve, box, word and wire group: [19xx - M924 - DOC - 924-08-001 - ENG POWER SUPPLY (traced).json](../MANUALS/19xx%20-%20M924%20-%20DOC%20-%20924-08-001%20-%20ENG%20POWER%20SUPPLY%20(traced).json) (the CAD file: `19xx - M924 - DOC - 924-08-001 - ENG POWER SUPPLY (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M924 - DOC - 924-08-001 - ENG POWER SUPPLY (traced).json](../MANUALS/19xx%20-%20M924%20-%20DOC%20-%20924-08-001%20-%20ENG%20POWER%20SUPPLY%20%28traced%29.json) (the CAD file: `19xx - M924 - DOC - 924-08-001 - ENG POWER SUPPLY (traced).dxf`).
 
 ## Full text
 

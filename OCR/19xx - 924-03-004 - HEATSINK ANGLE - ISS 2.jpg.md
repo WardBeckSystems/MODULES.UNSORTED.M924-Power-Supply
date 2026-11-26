@@ -31,7 +31,7 @@ Wiki page: [M924](../../../../PAGES/M924.md)
 - **Words (OCR):** 51 in 35 lines: 2.150 · 0.40 · 15 · 0.531 DIA · REQ'D · 0.40 · 0oo · 900 · 0.900 · REQ'D · 0.312 DIA · .25
 - **Title block:** (257, 15)–(422, 80) mm: SSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN; DRG · ENG_ · HEATSINK ANGLE · CKD · APP · ISSUE · SCALE DISC NO: 469 · 924-03-004 · 1:1 CODE: 924004
 
-Every curve, box, word and wire group: [19xx - 924-03-004 - HEATSINK ANGLE - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20924-03-004%20-%20HEATSINK%20ANGLE%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 924-03-004 - HEATSINK ANGLE - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 924-03-004 - HEATSINK ANGLE - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20924-03-004%20-%20HEATSINK%20ANGLE%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 924-03-004 - HEATSINK ANGLE - ISS 2 (traced).dxf`).
 
 ## Full text
 

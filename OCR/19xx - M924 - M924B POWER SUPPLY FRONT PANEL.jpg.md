@@ -17,6 +17,20 @@ Wiki page: [M924](../../../../PAGES/M924.md)
 - **Size:** 381,909 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 432 × 281 mm, 2000 × 1303 px traced (0.216 mm/px)
+- **Ink extent:** 35–418 mm across, 3–200 mm up
+- **Outlines:** line 448 rings, 3,323 straight (7,628 mm) / 726 curved (897 mm); text 142 rings, 861 straight (861 mm) / 267 curved (328 mm); tb 16 rings, 142 straight (174 mm) / 25 curved (29.0 mm)
+- **Centre lines:** 4,613 paths (118 closed); straight 5,113 mm, curved 71.1 mm; horizontal 2,542 mm, vertical 1,107 mm, diagonal 1,464 mm
+- **Circles and arcs:** 4 circles, 21 arcs; largest r 2.3 @ (194.6, 150.3), r 2.3 @ (232.9, 150.5), r 0.9 @ (255.4, 38.1), r 0.8 @ (167.3, 107.6)
+- **Closed boxes:** 11 (5 in the title block); named: M9248 POWER SUPPLY FRONT PANEL
+- **Dots (junctions):** 2
+- **Words (OCR):** 20 in 19 lines: Lin_1 · PLACES · 74555 · 7-n60 · 1000 · REO"D · 5.500 · RoTE GRIENTATION · 0,4701 · SHARZ EDCES · DETAIL · DETAL
+- **Title block:** (338, 22)–(423, 38) mm: WBS · WARD-BECK SYSTEMS · M9248
+
+Every curve, box, word and wire group: [19xx - M924 - M924B POWER SUPPLY FRONT PANEL (traced).json](../MECHANICAL/19xx%20-%20M924%20-%20M924B%20POWER%20SUPPLY%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `19xx - M924 - M924B POWER SUPPLY FRONT PANEL (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

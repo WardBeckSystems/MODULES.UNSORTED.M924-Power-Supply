@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 5)–(429, 39) mm: ReMSC · WARD-BECK SYSTEMS · WBS · WBZ NEWS AIR STUDIO · RENAISSANCE · MK · FUNCTIONAL · SCALE · 94064-01-001 · CODE;
 - **Wiring (first pass):** 332 connected wire groups from 2,328 runs, 2 dotted junctions; labelled ends: 3572 mm → #]cxcuonitor; 110 mm → RIC T; 88 mm → Right; 70 mm → RIC T; 39 mm → ExT QUC
 
-Every curve, box, word and wire group: [1994 - M924 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE (traced).json](../SCHEMATICS/1994%20-%20M924%20-%20DOC%20-%2094064-01-001%20-%20ROUTING%20SWTCHER%20ARE%20INTEGRATED%20INTO%20CONSOLE%20(traced).json) (the CAD file: `1994 - M924 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - M924 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE (traced).json](../SCHEMATICS/1994%20-%20M924%20-%20DOC%20-%2094064-01-001%20-%20ROUTING%20SWTCHER%20ARE%20INTEGRATED%20INTO%20CONSOLE%20%28traced%29.json) (the CAD file: `1994 - M924 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE (traced).dxf`).
 
 ## Full text
 

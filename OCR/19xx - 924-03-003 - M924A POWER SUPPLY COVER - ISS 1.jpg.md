@@ -31,7 +31,7 @@ Wiki page: [M924](../../../../PAGES/M924.md)
 - **Words (OCR):** 61 in 57 lines: 17,24 · 0.750- · 0.150 · 5.000 · 5100 · 2.250 REF · 12.500 · 3.250TCHES750 · 4.750 REF · 13.770 · 14.000 · 224
 - **Title block:** (675, 19)–(857, 98) mm: SSUE DATZ · REMSION · APP; · WARD-BECK · SYSTEMS · WBS · DRN: DRG · M924/M924A · ENG_ · POWER SUPPLY · CKD_ · COVER · SCALE DISC NO: · 924-03-003 · ISSUE · CODE: 924003
 
-Every curve, box, word and wire group: [19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20924-03-003%20-%20M924A%20POWER%20SUPPLY%20COVER%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20924-03-003%20-%20M924A%20POWER%20SUPPLY%20COVER%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1 (traced).dxf`).
 
 ## Full text
 
