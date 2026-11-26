@@ -1,0 +1,111 @@
+{
+ "drawing": "Modules/UNSORTED/M924/MECHANICAL/19xx - M924 - M924B POWER SUPPLY FRONT PANEL.jpg",
+ "version": 1,
+ "trace": "_traces/4d711f915078cc88.svg",
+ "sheet": {
+  "number": "",
+  "title": "M924B / POWER SUPPLY / FRONT PANEL",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1303],
+  "mm": [431.8, 281.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [35.2, 3.0, 417.6, 199.9],
+ "outlines": {
+  "line": {"rings": 448, "straight": {"n": 3323, "mm": 7627.5}, "curved": {"n": 726, "mm": 897.0}},
+  "text": {"rings": 142, "straight": {"n": 861, "mm": 860.8}, "curved": {"n": 267, "mm": 327.9}},
+  "tb": {"rings": 16, "straight": {"n": 142, "mm": 173.6}, "curved": {"n": 25, "mm": 29.0}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3307, "straight": {"n": 3731, "mm": 4059.9}, "curved": {"n": 66, "mm": 71.1}},
+   "text": {"paths": 1056, "straight": {"n": 1308, "mm": 657.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 250, "straight": {"n": 288, "mm": 395.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 118,
+  "orientation": {"horizontal": {"n": 1354, "mm": 2542.5}, "vertical": {"n": 1414, "mm": 1106.7}, "diagonal": {"n": 2559, "mm": 1463.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [194.0, 50.4], "r": 3.0, "kind": "arc", "span": 89, "from": ["centre line"], "start": 271},
+  {"c": [251.5, 150.5], "r": 2.8, "kind": "arc", "span": 94, "from": ["centre line"], "start": 274},
+  {"c": [175.6, 149.6], "r": 2.5, "kind": "arc", "span": 103, "from": ["centre line"], "start": 10},
+  {"c": [194.7, 51.3], "r": 2.5, "kind": "arc", "span": 106, "from": ["centre line"], "start": 94},
+  {"c": [175.7, 151.0], "r": 2.5, "kind": "arc", "span": 108, "from": ["centre line"], "start": 95},
+  {"c": [252.4, 151.5], "r": 2.4, "kind": "arc", "span": 103, "from": ["centre line"], "start": 94},
+  {"c": [194.9, 49.8], "r": 2.3, "kind": "arc", "span": 114, "from": ["centre line"], "start": 14},
+  {"c": [246.4, 51.1], "r": 2.3, "kind": "arc", "span": 85, "from": ["centre line"], "start": 87},
+  {"c": [194.6, 150.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [232.9, 150.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [304.2, 151.0], "r": 2.0, "kind": "arc", "span": 94, "from": ["centre line"], "start": 359},
+  {"c": [303.3, 150.8], "r": 1.8, "kind": "arc", "span": 104, "from": ["centre line"], "start": 280},
+  {"c": [105.5, 169.8], "r": 1.7, "kind": "arc", "span": 159, "from": ["centre line"], "start": 215},
+  {"c": [194.2, 150.1], "r": 1.6, "kind": "arc", "span": 96, "from": ["centre line"], "start": 272},
+  {"c": [194.9, 150.1], "r": 1.6, "kind": "arc", "span": 103, "from": ["centre line"], "start": 7},
+  {"c": [371.3, 9.1], "r": 1.1, "kind": "arc", "span": 261, "from": ["centre line"], "start": 109},
+  {"c": [255.4, 38.1], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [167.3, 107.6], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [265.4, 114.0], "r": 0.8, "kind": "arc", "span": 163, "from": ["centre line"], "start": 126},
+  {"c": [40.1, 34.6], "r": 0.7, "kind": "arc", "span": 185, "from": ["centre line"], "start": 164},
+  {"c": [244.3, 108.4], "r": 0.7, "kind": "arc", "span": 146, "from": ["centre line"], "start": 64},
+  {"c": [98.8, 190.7], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 258},
+  {"c": [58.0, 28.1], "r": 0.7, "kind": "arc", "span": 213, "from": ["centre line"], "start": 255},
+  {"c": [55.1, 25.9], "r": 0.7, "kind": "arc", "span": 178, "from": ["centre line"], "start": 80},
+  {"c": [43.0, 30.1], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 355}
+ ],
+ "boxes": [
+  {"mm": [104.5, 128.2, 323.0, 172.3], "w": 218.5, "h": 44.0, "from": "ring"},
+  {"mm": [363.6, 34.5, 411.9, 37.6], "w": 48.4, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [412.4, 34.8, 417.1, 37.6], "w": 4.7, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [357.3, 34.5, 363.1, 37.4], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [342.0, 25.5, 417.1, 34.5], "w": 75.1, "h": 9.1, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [359.7, 12.6, 417.1, 25.5], "w": 57.4, "h": 12.9, "from": "ring", "words": ["M9248", "POWER SUPPLY", "FRONT PANEL"]},
+  {"mm": [342.0, 22.2, 359.5, 25.0], "w": 17.5, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [342.0, 19.0, 359.5, 22.0], "w": 17.5, "h": 3.0, "from": "ring"},
+  {"mm": [342.2, 15.8, 359.5, 18.8], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [342.2, 12.5, 359.5, 15.5], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [351.3, 9.5, 368.8, 12.3], "w": 17.5, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [353.0, 194.5, 359.5, 196.7], "text": "Lin_1"},
+   {"mm": [365.7, 193.7, 374.8, 196.8], "text": "PLACES"},
+   {"mm": [213.3, 182.7, 219.1, 184.8], "text": "74555"},
+   {"mm": [81.6, 148.5, 87.4, 150.7], "text": "7-n60"},
+   {"mm": [91.8, 148.5, 97.6, 150.7], "text": "1000"},
+   {"mm": [284.8, 120.9, 291.7, 124.0], "text": "REO\"D"},
+   {"mm": [130.6, 116.2, 136.4, 118.3], "text": "5.500"},
+   {"mm": [334.4, 113.8, 353.9, 119.3], "text": "RoTE GRIENTATION"},
+   {"mm": [191.1, 36.5, 198.6, 38.6], "text": "0,4701"},
+   {"mm": [64.3, 33.7, 77.7, 35.8], "text": "SHARZ EDCES"},
+   {"mm": [190.0, 27.9, 196.5, 30.0], "text": "DETAIL"},
+   {"mm": [241.8, 28.3, 248.7, 30.4], "text": "DETAL"},
+   {"mm": [346.7, 27.4, 363.6, 31.7], "text": "WBS"},
+   {"mm": [370.1, 27.4, 414.3, 32.9], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [383.0, 20.9, 396.0, 24.8], "text": "M9248"},
+   {"mm": [375.5, 16.6, 403.5, 20.9], "text": "POWER SUPPLY"},
+   {"mm": [376.5, 13.0, 401.8, 17.3], "text": "FRONT PANEL"},
+   {"mm": [343.3, 9.9, 349.8, 12.1], "text": "ECALE"},
+   {"mm": [381.3, 6.9, 405.0, 10.7], "text": "924-03-005"}
+  ]
+ },
+ "title_block": {"mm": [338.1, 21.9, 422.9, 38.5], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "M9248"]},
+ "dots": [{"c": [82.9, 32.5], "r": 0.7, "lines": 2}, {"c": [65.5, 25.8], "r": 0.6, "lines": 48}],
+ "summary": [
+  "- **Sheet:** mechanical, size B (assumed) 432 × 281 mm, 2000 × 1303 px traced (0.216 mm/px)",
+  "- **Ink extent:** 35–418 mm across, 3–200 mm up",
+  "- **Outlines:** line 448 rings, 3,323 straight (7,628 mm) / 726 curved (897 mm); text 142 rings, 861 straight (861 mm) / 267 curved (328 mm); tb 16 rings, 142 straight (174 mm) / 25 curved (29.0 mm)",
+  "- **Centre lines:** 4,613 paths (118 closed); straight 5,113 mm, curved 71.1 mm; horizontal 2,542 mm, vertical 1,107 mm, diagonal 1,464 mm",
+  "- **Circles and arcs:** 4 circles, 21 arcs; largest r 2.3 @ (194.6, 150.3), r 2.3 @ (232.9, 150.5), r 0.9 @ (255.4, 38.1), r 0.8 @ (167.3, 107.6)",
+  "- **Closed boxes:** 11 (5 in the title block); named: M9248 POWER SUPPLY FRONT PANEL",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 20 in 19 lines: Lin_1 · PLACES · 74555 · 7-n60 · 1000 · REO\"D · 5.500 · RoTE GRIENTATION · 0,4701 · SHARZ EDCES · DETAIL · DETAL",
+  "- **Title block:** (338, 22)–(423, 38) mm: WBS · WARD-BECK SYSTEMS · M9248"
+ ]
+}
