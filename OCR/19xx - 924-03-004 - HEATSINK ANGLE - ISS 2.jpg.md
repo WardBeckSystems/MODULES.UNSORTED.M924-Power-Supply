@@ -1,5 +1,5 @@
 # 19xx - 924-03-004 - HEATSINK ANGLE - ISS 2.jpg
-Wiki page: [M924](../../../../PAGES/M924.md)
+Wiki page: [M924](../)
 
 
 - **Year:** unknown (title block (read by eye))

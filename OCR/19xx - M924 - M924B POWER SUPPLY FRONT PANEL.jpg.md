@@ -1,5 +1,5 @@
 # 19xx - M924 - M924B POWER SUPPLY FRONT PANEL.jpg
-Wiki page: [M924](../../../../PAGES/M924.md)
+Wiki page: [M924](../)
 
 
 - **Year:** unknown (title block (read by eye))
