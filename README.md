@@ -1,16 +1,14 @@
-# M924 Power Supply · Unsorted
+# M924 Power Supply · Renaissance
 
 Ward-Beck Systems M924, 1994|27. Wiki page: [M924 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M924.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 22 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 9 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 23 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 8 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
 ## Mechanical
@@ -20,8 +18,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/17HWJZhUw7FLRuaM_pJZ1cowPsxu4qzk0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=17HWJZhUw7FLRuaM_pJZ1cowPsxu4qzk0" width="240" alt="19xx - M924 - DOC - 924-03-003 - NQIES REVOVE ALL BURRS AND SHARP EDGES TOL.jpg"></a><br><sub>19xx - M924 - DOC - 924-03-003 - NQIES REVOVE ALL BURRS AND SHARP EDGES TOL · <a href="MECHANICAL/19xx%20-%20M924%20-%20DOC%20-%20924-03-003%20-%20NQIES%20REVOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOL%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg`, `19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1.jpg`, `19xx - 924-03-004 - HEATSINK ANGLE - ISS 2.jpg`, `19xx - M924 - M924B POWER SUPPLY FRONT PANEL.jpg`
 
 ## 3-D model
 
@@ -59,7 +55,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1994 - M924 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.kicad_sch](KICAD/1994%20-%20M924%20-%20DOC%20-%2094064-01-001%20-%20ROUTING%20SWTCHER%20ARE%20INTEGRATED%20INTO%20CONSOLE.kicad_sch)
 - [1994 - M924 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.kicad_sch](KICAD/1994%20-%20M924%20-%20DOC%20-%2094064-01-006%20-%20DUAL%20STEREO%20LINE%20SELECTOR%20WHICH%20ARE%20PROVIDED.kicad_sch)
 - [M924.kicad_sym](KICAD/M924.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
