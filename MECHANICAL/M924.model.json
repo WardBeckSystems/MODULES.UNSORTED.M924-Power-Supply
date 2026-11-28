@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M924",
- "repo": "MODULES.UNSORTED.M924-Power-Supply",
+ "repo": "MODULES.RENAISSANCE.M924-Power-Supply",
  "title": "Power Supply",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

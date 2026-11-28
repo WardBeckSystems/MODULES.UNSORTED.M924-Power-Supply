@@ -30,7 +30,7 @@ M924
 
 ```json
 {
- "file": "Modules/UNSORTED/M924/MANUALS/19xx - M924 - DOC - Screen shot 2010-03-25 at 9.20.56 AM.png",
+ "file": "Modules/RENAISSANCE/M924/MANUALS/19xx - M924 - DOC - Screen shot 2010-03-25 at 9.20.56 AM.png",
  "sha256": "4adea5d2af3f3235a5be1580ebc28d18d1b0aa48fb39a2e0aa78f03add272a98",
  "kind": "doc",
  "models": [
